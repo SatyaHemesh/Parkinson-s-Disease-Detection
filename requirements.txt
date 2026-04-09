@@ -1,0 +1,14 @@
+streamlit
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+librosa
+soundfile
+numba
+xgboost
+praat-parselmouth
+joblib
+scipy
+audio-recorder-streamlit
